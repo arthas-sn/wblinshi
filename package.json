@@ -1,0 +1,10 @@
+{
+  "name": "stock-toolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "统一股票工具箱：高股息超卖选股器 + 日内做T助手（单页面双Tab，手机可访问）",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

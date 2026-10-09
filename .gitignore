@@ -1,0 +1,15 @@
+# 凭证文件: 绝不入git(邮箱授权码/Bark Key)
+notify_config.json
+
+# 运行时状态/数据
+pushed_state.json
+t_data/
+*.log
+
+# 本地工具与依赖
+tools/
+node_modules/
+__pycache__/
+t_engine/dev/cache_*.json
+t_engine/dev/today_cache.json
+t_engine/dev/agg_*.json
